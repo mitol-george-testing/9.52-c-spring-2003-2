@@ -1,0 +1,31 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Computational Science and Engineering"
+    ],
+    [
+      "Science",
+      "Cognitive Science"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "922eaa24-6844-481d-0a45-3ec5df04c5bb"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Computational Cognitive Science",
+  "course_description": "An introduction to computational theories of human cognition.\u00a0Emphasizes questions of inductive learning and inference, and the representation of knowledge. Project required for graduate credit. This class is suitable for intermediate to advanced undergraduates or graduate students specializing in cognitive science, artificial intelligence, and related fields.\n",
+  "department_numbers": [
+    "9"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "9.52-C",
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
